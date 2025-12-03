@@ -387,7 +387,7 @@ export default function App() {
         <div className="container max-w-7xl mx-auto">
           <RevealOnScroll>
             <div className="text-center mb-24">
-              <h2 className="text-5xl md:text-8xl font-serif mb-6">Masterpieces</h2>
+              <h2 className="text-5xl md:text-8xl font-serif mb-6">Obras-primas</h2>
               <p className="text-gray-400 max-w-xl mx-auto font-light">
                 Cada linha conta uma história. Confira nossa seleção curada de trabalhos recentes.
               </p>
