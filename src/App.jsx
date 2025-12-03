@@ -322,7 +322,7 @@ export default function App() {
             <div className="grid md:grid-cols-2 gap-12 items-start">
               <div className="relative group cursor-pointer overflow-hidden rounded-2xl">
                 <img 
-                  src="public/gt4.jpeg" 
+                  src="gt4.jpeg" 
                   alt="Hero Tattoo"
                   className="w-full h-[500px] object-cover transition-transform duration-[1.5s] ease-[cubic-bezier(0.25,1,0.5,1)] group-hover:scale-110"
                 />
@@ -396,12 +396,12 @@ export default function App() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {[
-              "public/gt1.webp",
-              "public/gt2.webp", 
-              "public/gt3.jpeg",
-              "public/gt5.jpeg",
-              "public/gt6.webp",
-              "public/gt7.webp"
+              "/gt1.webp",
+              "/gt2.webp", 
+              "/gt3.jpeg",
+              "/gt5.jpeg",
+              "/gt6.webp",
+              "/gt7.webp"
             ].map((caminhoDaFoto, index) => (
               <RevealOnScroll key={index} delay={index * 50}>
                 <a 
