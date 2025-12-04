@@ -8,6 +8,7 @@ Uma Landing Page de alta conversão e estética minimalista desenvolvida para um
 [<!-- Se tiver o badge do netlify, coloque aqui, senão pode remover -->
 ](https://gungawebsite.netlify.app/)
 🔗 Demonstração Online
+https://gungawebsite.netlify.app/ 
 
 👉 Acesse o projeto online aqui
 
